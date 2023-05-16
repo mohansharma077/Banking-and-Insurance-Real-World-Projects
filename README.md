@@ -18,7 +18,7 @@
 
 1. [Loan Acceptance ](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) -  Classification and time-series analysis for loan acceptance.<br/>
 2. [Predict Loan Repayment ](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) -  Predict whether a loan will be repaid using automated feature engineering.<br/>
-3. [Credit Approval ](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) -   A system for credit card approval.<br/>
+3. [Credit Approval ](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) -  A system for credit card approval.<br/>
 
 
 <h3>Fraud</h3>
