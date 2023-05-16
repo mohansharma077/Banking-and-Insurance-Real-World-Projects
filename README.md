@@ -18,4 +18,4 @@
 
 
 <h3>Valuation</h3>
-[Credit Card Fraud Detection](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - Credit card fraud detection
+ My profile in [LinkedIn](www.linkedin.com/in/mohansharma077)💼<br>
