@@ -19,6 +19,7 @@
 
 
 <h3>Management and Operation</h3>
+![OIP](https://github.com/mohansharma077/Banking-and-Insurance-Real-World-Projects/assets/104629829/6f809fc6-72f5-4e39-9f46-4340a0deb33c)
 
 1. [CEO-Analysis of CEO compensation.](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - CEO - Analysis of CEO compensation.<br/>
 2. [Survival Analysis](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - Survival Analysis - Perform a survival analysis of customers<br/>
