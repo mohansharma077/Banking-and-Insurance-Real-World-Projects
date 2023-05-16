@@ -9,18 +9,17 @@
 
 
 
-1. [Credit Card Fraud Detection](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - Credit card fraud detection<br/>
-2. [CEO-Analysis of CEO compensation.](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - CEO - Analysis of CEO compensation.<br/>
-3. [Survival Analysis](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - Survival Analysis - Perform a survival analysis of customers<br/>
+1. [CEO-Analysis of CEO compensation.](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - CEO - Analysis of CEO compensation.<br/>
+2. [Survival Analysis](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - Survival Analysis - Perform a survival analysis of customers<br/>
 
 
 
 <h3>Consumer Finance</h3>
 
-
-1. [Loan Acceptance ](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) -  Classification and time-series analysis for loan acceptance.<br/>
-2. [Predict Loan Repayment ](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) -  Predict whether a loan will be repaid using automated feature engineering.<br/>
-3. [Next Transaction ](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - Deep learning model to predict the transaction amount and days to next transaction<br/>
+1. [Credit Approval](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - A system for credit card approva<br/>
+2. [Loan Acceptance ](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) -  Classification and time-series analysis for loan acceptance.<br/>
+3. [Predict Loan Repayment ](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) -  Predict whether a loan will be repaid using automated feature engineering.<br/>
+4. [Next Transaction ](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - Deep learning model to predict the transaction amount and days to next transaction<br/>
 
 
 <h3>Fraud</h3>
