@@ -29,11 +29,16 @@
 
 <h3>Fraud</h3>
 
+![OIP](https://github.com/mohansharma077/Banking-and-Insurance-Real-World-Projects/assets/104629829/5608da9f-3788-4b1b-9346-69cea6d83bb8)
+
+
 1. [Credit Card Fraud Detection](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - Credit card fraud detection<br/>
 2. [Bank Note Fraud Detection](https://github.com/mohansharma077/Bank-Note-Fraud-Detection-using-Random-Forest-Classifier) -  Bank Note Authentication Using RandomForest<br/>
 
 
 <h3>Insurance and Risk</h3>
+
+![download](https://github.com/mohansharma077/Banking-and-Insurance-Real-World-Projects/assets/104629829/e0755a7a-6ab8-43d6-9ebc-7ee74a54a3c2)
 
 1. [Bank failure Prediction](https://github.com/mohansharma077/Bank-Failure-Prediction/tree/main) - Bank Failure Prediction<br/>
 
