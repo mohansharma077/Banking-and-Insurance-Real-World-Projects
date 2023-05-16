@@ -18,4 +18,4 @@
 
 
 <h3>Valuation</h3>
- My profile in [LinkedIn](www.linkedin.com/in/mohansharma077)💼<br>
+ My profile in [Used car price prediction](www.linkedin.com/in/mohansharma077](https://github.com/mohansharma077/Used-Car-Price-prediction-/blob/main/Used_Car_Price_prediction_.ipynb)<br>
