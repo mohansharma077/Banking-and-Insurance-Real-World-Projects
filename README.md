@@ -47,4 +47,6 @@
 
 <h3>Valuation</h3>
 
+![download](https://github.com/mohansharma077/Banking-and-Insurance-Real-World-Projects/assets/104629829/4f16fa87-a943-4ad5-8aa9-5684c97c29b6)
+
 1. [Used Car Price Prediction](https://github.com/mohansharma077/Used-Car-Price-prediction-/tree/main) - Used Car Price Prediction 
