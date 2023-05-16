@@ -18,4 +18,5 @@
 
 
 <h3>Valuation</h3>
-[Used car price prediction ](https://github.com/mohansharma077/Used-Car-Price-prediction-/blob/main/Used_Car_Price_prediction_.ipynb)<br/>
+[Used car price prediction][1]
+[1]:(https://github.com/mohansharma077/Used-Car-Price-prediction-/blob/main/Used_Car_Price_prediction_.ipynb)
