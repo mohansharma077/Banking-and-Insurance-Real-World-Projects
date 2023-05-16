@@ -14,7 +14,7 @@
 2. [Bank Note Fraud Detection](https://github.com/mohansharma077/Bank-Note-Fraud-Detection-using-Random-Forest-Classifier) -  Bank Note Authentication Using RandomForest<br/>
 <h3>Insurance and Risk</h3>
 
-1. [Credit Card Fraud Detection](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - Credit card fraud detection<br/>
+1. [Credit Card Fraud Detection](https://github.com/mohansharma077/Bank-Failure-Prediction/blob/main/bank_failure_prediction.ipynb) - Credit card fraud detection<br/>
 
 
 <h3>Valuation</h3>
