@@ -14,7 +14,7 @@
 2. [Bank Note Fraud Detection](https://github.com/mohansharma077/Bank-Note-Fraud-Detection-using-Random-Forest-Classifier) -  Bank Note Authentication Using RandomForest<br/>
 <h3>Insurance and Risk</h3>
 
-1. [Bank failure Prediction](https://github.com/mohansharma077/Bank-Failure-Prediction/blob/main/bank_failure_prediction.ipynb) - Bank Failure Prediction<br/>
+1. [Bank failure Prediction](https://github.com/mohansharma077/Bank-Failure-Prediction/tree/main) - Bank Failure Prediction<br/>
 
 
 <h3>Valuation</h3>
