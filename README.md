@@ -18,4 +18,4 @@
 
 
 <h3>Valuation</h3>
-[Used Car Price Prediction](https://github.com/mohansharma077/Used-Car-Price-prediction-/blob/main/Used_Car_Price_prediction_.ipynb) - Used car price prediction using Random Forest Regressor<br/>
+[Credit Card Fraud Detection](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - Credit card fraud detection<br/>
