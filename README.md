@@ -10,8 +10,7 @@
 
 
 1. [Credit Card Fraud Detection](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - Credit card fraud detection<br/>
-2. [CEO - Analysis of CEO compensation.](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - CEO - Analysis of CEO compensation.<br/>
-
+2. [CEO-Analysis of CEO compensation.](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - CEO - Analysis of CEO compensation.<br/>
 3. [Survival Analysis](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - Survival Analysis - Perform a survival analysis of customers<br/>
 
 
