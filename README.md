@@ -12,7 +12,7 @@
 
 <h3>Consumer Finance</h3>
 
-![Uploading OIP.jpg…]()
+![download](https://github.com/mohansharma077/Banking-and-Insurance-Real-World-Projects/assets/104629829/bf43bf7f-8468-4f36-8667-deb97112fb54)
 
 1. [Credit Approval](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - A system for credit card approva<br/>
 2. [Loan Acceptance ](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) -  Classification and time-series analysis for loan acceptance.<br/>
