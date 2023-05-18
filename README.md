@@ -26,7 +26,7 @@
 
 1. [CEO-Analysis of CEO compensation.](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - CEO - Analysis of CEO compensation.<br/>
 2. [Survival Analysis](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - Survival Analysis - Perform a survival analysis of customers<br/>
-3. [Next Transaction ](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - Deep learning model to predict the transaction amount and days to next transaction<br/>
+3. [Next Transaction ](https://github.com/mohansharma077/Customer-Next-Transaction-Prediction/) - Deep learning model to predict the transaction amount and days to next transaction<br/>
 
 
 <h3>Fraud</h3>
